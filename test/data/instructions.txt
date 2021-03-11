@@ -1,0 +1,3 @@
+
+Instructions:
+Start inputing the Mars Rover initial position or let it use its self localization system.

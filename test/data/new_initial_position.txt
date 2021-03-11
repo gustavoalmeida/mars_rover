@@ -1,0 +1,34 @@
+
+================================
+Welcome to Mars Rover Controller
+================================
+
+Instructions:
+Start inputing the Mars Rover initial position or let it use its self localization system.
+
+
+Current position: (4, 2, 'EAST')
+
+Use this current position? [y/N]: n
+
+Please, informe the start position?
+x: : 4
+y: : 3
+direction:  (NORTH, EAST, SOUTH, WEST): EAST
+Confirm the start position: (4, 3, 'EAST') [y/N]: n
+
+Please, informe the start position?
+x: : 4
+y: : 2
+direction:  (NORTH, EAST, SOUTH, WEST): EAST
+Confirm the start position: (4, 2, 'EAST') [y/N]: y
+
+Motor started.
+
+Input the direction command or type exit to turn the rover off: FLFFFRFLB
+Current position: (6, 4, 'NORTH')
+Input the direction command or type exit to turn the rover off: exit
+
+Turning the Rover off.
+See you soon.
+
